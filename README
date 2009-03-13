@@ -1,0 +1,18 @@
+A collection of tools and notes I am using to begin to research automated
+qualitative data analysis.
+
+== ocr ==
+These two scripts are both taken from 
+
+http://www.groklaw.net/articlebasic.php?story=20061210115516438
+
+They rely on http://sourceforge.net/projects/tesseract-ocr to perform the ocr.
+
+Tesseract reads tif files, so you must first convert pdfs to tifs, and 
+then run the ocr.
+
+== calais == 
+Scripts culled from these two calais recipes, to do batch calais requests
+
+http://www.leighnet.ca/opencalais-recipes/DocumentProcessor.html
+http://www.leighnet.ca/opencalais-recipes/ResultProcessor.html

@@ -1,0 +1,10 @@
+<c:params xmlns:c="http://s.opencalais.com/1/pred/">
+  <c:processingDirectives 
+    c:contentType="text/txt" 
+    c:outputFormat="text/rdf"
+    c:omitOutputtingOriginalText="TRUE" /> 
+  <c:userDirectives 
+    c:allowDistribution="true" 
+    c:allowSearch="true"/> 
+  <c:externalMetadata/> 
+</c:params>
